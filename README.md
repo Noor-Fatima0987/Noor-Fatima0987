@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Noor Fatima 👋  <br>BS Computer Science student | React Native Learner  <br><br>I enjoy building small mobile apps and practice projects while learning React Native.  <br>Currently focused on strengthening fundamentals, logic building, and real-world development experience.  <br><br>Always learning, always improving 🚀
+👋 Hi , I'm Noor Fatima!<br> <br>I enjoy building small mobile apps and practice projects while learning React Native.  <br>Currently focused on strengthening fundamentals, logic building, and real-world development experience.  <br><br>🔭 Currently working on: React Native project<br>🌱 Currently learning: Advanced React Native & real-world app development<br>💬 Ask me about: React Native, beginner mobile app projects<br>📫 How to reach me: noorfatima1232005@gmail.com<br>😄 Pronouns: She/Her<br>
 
 
 ## 🌐 Socials:
